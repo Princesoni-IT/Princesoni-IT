@@ -1,24 +1,24 @@
-# Hi there, I'm Prince soni 👋
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Prince Soni
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20my%20Space&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=300&section=header&text=Prince%20Soni&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=BCA+Student+💻;Python+Developer+🐍;Web+Development+Enthusiast+🌐;Open+Source+Contributor+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=BCA+4th+Sem+Student+💻;Python+Developer+🐍;Web+Development+Enthusiast+🌐;Building+Modern+Clones+🚀" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 💫 About Me
-- 🎓 Currently pursuing **BCA (4th Semester)**.
-- 🐍 Deep diving into **Advanced Python** and **Web Development**.
-- 🛠️ Working on modern web clones and interactive UI/UX projects.
-- ⚡ Fun fact: I love turning complex logic into clean, readable code.
+- 🎓 **Education:** Pursuing **BCA (4th Semester)**.
+- 🐍 **Current Focus:** Mastering **Advanced Python** and modern Web Tech.
+- 🛠️ **Current Project:** Working on a high-fidelity **clone of [threesixty.life](https://www.threesixty.life/)**.
+- ⚡ **Goal:** Building clean, scalable, and interactive user experiences.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -30,7 +30,7 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 My GitHub Power-Up Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Princesoni-IT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -41,16 +41,26 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Princesoni-IT&theme=tokyonight" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Princesoni-IT&theme=tokyonight" width="100%" />
+</div>
+
 ---
 
-### 🤝 Connect with Me
+### 🤝 Let's Connect!
 <div align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[YOUR_EMAIL]">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Princesoni-IT&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/Data/Bottom_Border.svg" width="100%">
