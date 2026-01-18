@@ -28,6 +28,13 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
+### 📂 Major Projects
+| Project Name | Tech Used | Status |
+| :--- | :--- | :--- |
+| **Threesixty.life Clone** | HTML, CSS, JS | 🚧 In Progress |
+| **Python Logic Scripts** | Advanced Python | ✅ Completed |
+
+---
 ---
 
 ### 📊 My GitHub Power-Up Stats
@@ -49,10 +56,10 @@
 
 ### 🤝 Let's Connect!
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
+  <a href="https://www.linkedin.com/in/prince-soni-56680a294?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bm9kbhay9RXCniednjZM5Nw%3D%3D">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:princesoni.it@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -63,4 +70,4 @@
   <img src="https://komarev.com/ghpvc/?username=Princesoni-IT&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/Data/Bottom_Border.svg" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
