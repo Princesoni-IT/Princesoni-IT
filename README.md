@@ -1,7 +1,9 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Prince Soni
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=300&section=header&text=Prince%20Soni&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://images.weserv.nl/?url=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJicnF6ZzRyeGZ6Z3R4ZzRyeGZ6Z3R4ZzRyeGZ6Z3R4ZzRyeGZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif&w=300&h=300&fit=cover&mask=circle" width="200px" />
+  
+  <h1>Prince Soni</h1>
 </div>
 
 <div align="center">
@@ -28,13 +30,14 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
+---
+
 ### 📂 Major Projects
 | Project Name | Tech Used | Status |
 | :--- | :--- | :--- |
 | **Threesixty.life Clone** | HTML, CSS, JS | 🚧 In Progress |
 | **Python Logic Scripts** | Advanced Python | ✅ Completed |
 
----
 ---
 
 ### 📊 My GitHub Power-Up Stats
@@ -56,7 +59,7 @@
 
 ### 🤝 Let's Connect!
 <div align="center">
-  <a href="https://www.linkedin.com/in/prince-soni-56680a294?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bm9kbhay9RXCniednjZM5Nw%3D%3D">
+  <a href="https://www.linkedin.com/in/prince-soni-56680a294">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:princesoni.it@gmail.com">
